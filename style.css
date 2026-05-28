@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #43b99e;
+  --secondary-color: #01889b;
+  --background-color: #ffffff;
+  --text-color-light: #ffffff;
+  --text-color-background: #696969;
+  --text-color-dark: #000000;
+  --border-color: #b4b4b4;
+  --icon-color: #6ec1e4;
+  --success-color: #46ce5d;
+  --warn-color: #e9cd51;
+  --danger-color: #da2929;
+}
+
+.image-preview {
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"><rect width="10" height="10" style="fill:%23ccc;" /><rect x="10" y="10" width="10" height="10" style="fill:%23ccc;" /></svg>');
+}
